@@ -183,7 +183,7 @@ VITE_FIREBASE_APP_ID=your_app_id
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser. 🎉
+Open [https://velmora-travel.web.app/]([http://localhost:5173](https://velmora-travel.web.app/)) in your browser. 🎉
 
 <br/>
 
